@@ -1,3 +1,9 @@
+body {
+    background-color: #121212;
+    color: #ffffff;
+    font-family: Arial, sans-serif;
+}
+
 .subscribe-button {
     background-color: #008CBA;
     padding: 10px 20px;
