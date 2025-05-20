@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 body {
     background-color: #121212;
     color: #ffffff;
@@ -16,6 +15,7 @@ body {
 .subscribe-button:hover {
     background-color: #005f73;
 }
-=======
-header { margin-top: 20px; }
->>>>>>> e9aa4cf (Increase header margin)
+
+header {
+    margin-top: 20px;
+}
